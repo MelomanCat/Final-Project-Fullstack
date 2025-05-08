@@ -1,0 +1,8 @@
+HEADLINE PROS CONS :
+	-analyse de texte, trouver les causes du mé/contentement
+	-top des thématiques abordées
+FIRM OVERALL_RATING CURRENT JOB_TITLE DATE_REVIEW (ptt LOCATION) :
+	-évolution des avis dans le temps par firm/job_title/current/date
+		-evolution de l'état de santé de l'entreprise
+OVERALL_RATING WORK_LIFE_BALANCE CULTURE_VALUES DIVERSITY_INCLUSION CARRER_OPP COMP_BENEFITS SENIOR_MGMT :
+	-quel rating influe le plus sur le overall_rating
