@@ -46,6 +46,7 @@ dependencies:
   - h11=0.14.0=py310haa95532_0
   - httpcore=1.0.2=py310haa95532_0
   - httpx=0.27.0=py310haa95532_0
+  - icc_rt=2022.1.0=h6049295_2
   - icu=73.1=h6c2663c_0
   - idna=3.7=py310haa95532_0
   - intel-openmp=2023.1.0=h59b6b97_46320
@@ -53,6 +54,7 @@ dependencies:
   - ipython=8.30.0=py310haa95532_0
   - jedi=0.19.2=py310haa95532_0
   - jinja2=3.1.6=py310haa95532_0
+  - joblib=1.4.2=py310haa95532_0
   - jpeg=9e=h827c3e9_3
   - json5=0.9.25=py310haa95532_0
   - jsonschema=4.23.0=py310haa95532_0
@@ -315,6 +317,8 @@ dependencies:
   - rfc3986-validator=0.1.1=py310haa95532_0
   - rich=13.9.4=py310haa95532_0
   - rpds-py=0.22.3=py310h636fa0f_0
+  - scikit-learn=1.6.1=py310h585ebfc_0
+  - scipy=1.15.2=py310h9d85e7c_1
   - send2trash=1.8.2=py310haa95532_1
   - setuptools=78.1.1=py310haa95532_0
   - shellingham=1.5.0=py310haa95532_0
@@ -332,6 +336,7 @@ dependencies:
   - tbb=2021.8.0=h59b6b97_0
   - terminado=0.17.1=py310haa95532_0
   - thinc=8.2.2=py310hf497b98_0
+  - threadpoolctl=3.5.0=py310h9909e9c_0
   - tinycss2=1.4.0=py310haa95532_0
   - tk=8.6.14=h0416ee5_0
   - tomli=2.0.1=py310haa95532_0
@@ -360,4 +365,4 @@ dependencies:
   - zeromq=4.3.5=hd77b12b_0
   - zlib=1.2.13=h8cc25b3_1
   - zstd=1.5.6=h8880b57_0
-prefix: C:\Users\GEO\anaconda3\envs\FINAL_PROJECT
+prefix: C:\Users\killu\anaconda3\envs\FINAL_PROJECT
